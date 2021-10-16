@@ -2,7 +2,7 @@
 
 Sensorless Field Oriented Control of a Brushless DC Motor
 
-This thesis was written at the Czech Technical University at the department of Circuit Theory.
+This thesis was written at the Czech Technical University in the department of Circuit Theory.
 
 The Goals of the thesis were
 
