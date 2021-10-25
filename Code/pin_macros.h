@@ -1,12 +1,3 @@
-/*!
- *  @file pin_macros.h
- *	\brief A file with mostly macros to control pins on processor. 
- *
- * Created: 18-Jun-19 4:24:06 PM
- *  Author: Radek
- */ 
-
-
 #ifndef PIN_MACROS_H_
 #define PIN_MACROS_H_
 
