@@ -1,10 +1,3 @@
-/*
- * pinout.h
- *
- * Created: 18-Jun-19 4:25:52 PM
- *  Author: Radek
- */ 
-
 #ifndef PINOUT_H_
 #define PINOUT_H_
 
