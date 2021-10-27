@@ -14,16 +14,17 @@ The PCBs and Schematics were desgined in Altium. All footprints, symbols and 3D 
 
 My supervisor encouraged me to tightly layout the PCB and use small footprints, the smallest being 0402 packages, this was also a challange to solder.
 
-In this repositary I have attached the Code, Schematics, Boards views, Images and the thesis document.
+In this repositary I have attached the Code, Schematics, Boards views, Images and the Thesis Document.
 
 The Code was written in Microchip studio in C. I have included my code but the USB library has not been attached since its not mine.
 
 I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
 
-The graphs and data seen in the document was created in MATLAB
+The graphs and data seen in the document were created in MATLAB
 
-
-
+Note:
+1. The 3D view in the Boardview directory should by opened in Adobe. Github and Chrome does not support 3D PDF models.
+2. 
 
 
 
