@@ -18,7 +18,11 @@ In this repositary I have attached the Code, Schematics, Boards views, Images an
 
 The Code was written in Microchip studio in C. I have included my code but the USB library has not been attached since its not mine.
 
+I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
+
 The graphs and data seen in the document was created in MATLAB
+
+
 
 
 
