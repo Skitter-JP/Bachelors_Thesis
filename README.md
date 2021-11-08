@@ -1,5 +1,8 @@
 # Bachelors Thesis
 
+<img src="https://github.com/Skitter-JP/Bachelors_Thesis/blob/main/Images/electrical_engeneering.svg" align="right"
+     alt="CVUT Logo" width=40% height=40%>
+
 Topic: Sensorless Field Oriented Control of a Brushless DC Motor
 
 This thesis was written at the Czech Technical University in the department of Circuit Theory.
