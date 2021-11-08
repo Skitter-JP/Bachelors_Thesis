@@ -13,7 +13,7 @@ The Goals of this thesis were
 2. Design the controlling electronics and a printed circuit board.
 3. Design and implement the controlling algorithm for the estimation of the rotor angle and the field oriented control.
 
-In this repositary following has been attached
+In this repositary the following has been attached
 
 1. **Code:** The Code was written in Microchip Studio using C. The USB library has not been included since its not my property.
 2. **Schematics:** The Schematics and PCBs were designed in Altium. All footprints, symbols and 3D models were manually inserted into my own component library.
