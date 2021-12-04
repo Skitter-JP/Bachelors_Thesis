@@ -20,7 +20,7 @@ In this repositary the following has been attached
 - **Boards views:** The 3D views should be opened in Adobe. Github/Chrome does not support 3D PDF models
 - **3D Models:** The Motor Mounts, Magnetic Sensor Mounts and Magnet Mounts can be found here.
 - **Images:** The manufactured PCB and Mounts can be viewd here.
-- **The Thesis Document:** The document which was submitted
+- **Document:** The document which was submitted
 
 
 ## Notes
