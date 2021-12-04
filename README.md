@@ -15,12 +15,12 @@ The Goals of this thesis were
 
 In this repositary the following has been attached
 
-1. **Code:** The Code was written in Microchip Studio using C. The USB library has not been included since its not my property.
-2. **Schematics:** The Schematics and PCBs were designed in Altium. All footprints, symbols and 3D models were manually inserted into my own component library.
-3. **Boards views:** The 3D views should be opened in Adobe. Github/Chrome does not support 3D PDF models
-4. **3D Models:** The Motor Mounts, Magnetic Sensor Mounts and Magnet Mounts can be found here.
-5. **Images:** The manufactured PCB and Mounts can be viewd here.
-6. **The Thesis Document:** The document which was submitted
+- **Code:** The Code was written in Microchip Studio using C. The USB library has not been included since its not my property.
+- **Schematics:** The Schematics and PCBs were designed in Altium. All footprints, symbols and 3D models were manually inserted into my own component library.
+- **Boards views:** The 3D views should be opened in Adobe. Github/Chrome does not support 3D PDF models
+- **3D Models:** The Motor Mounts, Magnetic Sensor Mounts and Magnet Mounts can be found here.
+- **Images:** The manufactured PCB and Mounts can be viewd here.
+- **The Thesis Document:** The document which was submitted
 
 
 ## Notes
