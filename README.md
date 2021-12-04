@@ -9,9 +9,9 @@ This thesis was written at the Czech Technical University in the department of C
 
 The Goals of this thesis were
 
-1. Select a suitable combination of a microcontroller and power electronics.
-2. Design the controlling electronics and a printed circuit board.
-3. Design and implement the controlling algorithm for the estimation of the rotor angle and the field oriented control.
+- Select a suitable combination of a microcontroller and power electronics.
+- Design the controlling electronics and a printed circuit board.
+- Design and implement the controlling algorithm for the estimation of the rotor angle and the field oriented control.
 
 In this repositary the following has been attached
 
@@ -23,7 +23,7 @@ In this repositary the following has been attached
 6. **The Thesis Document:** The document which was submitted
 
 
-Note:
+## Notes
 1. I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
 2. My supervisor encouraged me to tightly layout the PCB and use small footprints. The smallest being 0402 packages, this was also a challange to solder but worth the effort.
 3. The graphs and data seen in the document were created in MATLAB
