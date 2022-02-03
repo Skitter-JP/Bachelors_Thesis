@@ -49,7 +49,7 @@ In this repositary the following has been attached
 
 ## Completed Magnetic Encoder PCB
 
-<img src="/Images" width=55%>
+<img src="/Images/Magnetic_Encoder_Assembled_PCB.JPG" width=55%>
 
 ## Notes
 1. I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
