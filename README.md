@@ -33,12 +33,6 @@ In this repositary the following has been attached
 
 <img src="/Images/Assembled_PCB.JPG" width=55%>
 
-
-## 3D Printed Mounts
-
-<img src="/Images/Magnet_Motor.jpg" width=55%>
-<img src="/Images/Magnetic_Sensor_Mount.jpg" width=55%>
-
 ## Magnetic Encoder Board Views
 
 <img src="/Images/Magnetic_PCB_Board_View_Top.JPG" width=55%>
@@ -50,6 +44,11 @@ In this repositary the following has been attached
 ## Completed Magnetic Encoder PCB
 
 <img src="/Images/Magnetic_Encoder_Assembled_PCB.JPG" width=55%>
+
+## 3D Printed Mounts
+
+<img src="/Images/Magnet_Motor.jpg" width=55%>
+<img src="/Images/Magnetic_Sensor_Mount.jpg" width=55%>
 
 ## Notes
 1. I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
