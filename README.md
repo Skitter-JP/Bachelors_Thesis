@@ -98,7 +98,7 @@ of the noise floor.
 <img src="/Images/Estimated_angle_with_load.png" width=55%>
 
 - **Ae:** Estimated Angle
-- **Am:** Measrued Angle 
+- **Am:** Measured Angle 
 
 ## 3D Printed Mounts
 
