@@ -57,11 +57,11 @@ In this repositary the following has been attached
 - **A:** The magnetic encoder which was mounted just below the rotor.
 - **B:** A 3D printed Motor/Magnetic encoder Mount
 
-## Current Sensing
+## Current Sensing Results
 
-## Angle Estimation
+## Angle Estimation Results
 
-## Maintain Set Angle
+## Maintain Set Angle Results
 
 ## Notes
 1. I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
