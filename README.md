@@ -48,6 +48,7 @@ In this repositary the following has been attached
 ## 3D Printed Mounts
 
 <img src="/Images/Magnet_Motor.JPG" width=55%>
+
 - **A:** A small mount for a diametrically magnetized magnet which was mounted to the rotor.
 - **B:** A BLDC Motor
 
