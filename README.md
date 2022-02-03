@@ -72,6 +72,9 @@ Current capture **with** a mechancal load on the motor
 
 <img src="/Images/Estimated_angle_with_load.png" width=55%>
 
+- **Ae:** Estimated Angle
+- **Am:** Measrued Angle 
+
 
 ## Maintain Set Angle Results
 
