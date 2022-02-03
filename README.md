@@ -46,13 +46,15 @@ In this repositary the following has been attached
 <img src="/Images/Magnetic_Encoder_Assembled_PCB.JPG" width=55%>
 
 ## 3D Printed Mounts
-A small mount for a diametrically magnetized magnet which was mounted to the rotor.
 
 <img src="/Images/Magnet_Motor.JPG" width=55%>
-
-The magnetic encoder which was mounted just below the rotor.
+- A: A small mount for a diametrically magnetized magnet which was mounted to the rotor.
+- B: A BLDC Motor
 
 <img src="/Images/Magnetic_Sensor_Mount.JPG" width=55%>
+
+- A: The magnetic encoder which was mounted just below the rotor.
+- B: A 3D printed Motor/Magnetic encoder Mount
 
 ## Current Sensing
 
