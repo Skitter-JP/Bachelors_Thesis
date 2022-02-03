@@ -57,6 +57,20 @@ In this repositary the following has been attached
 - **A:** The magnetic encoder which was mounted just below the rotor.
 - **B:** A 3D printed Motor/Magnetic encoder Mount
 
+## Constant Velocity Mode
+
+The following figure was captured from the ESC while operating in a constant velocity. In the figure the
+velocity was set to 5 [rad/sec]. The measured velocity was fluctuating between 20 and -10 rad/sec. The
+mean value was centered near 5 rad/sec.
+
+A professor in my defense mentioned that these large fluctuations in the measured velocity were most likely caused from the BLDC motor.
+A BLDC motor is designed for trapezoidal wave forms, if a BLAC motor would of been used these large fluctuations in the measured velocity would of not been apparent.
+
+<img src="/Images/5rad_sec_noise.JPG" width=55%>
+
+- **Vt:** Target Velocity
+- **Vm:** Measured Velocity
+
 ## Current Sensing Results
 
 The following figures were captured from the ESC while operating in a constant velocity mode at 5
@@ -72,14 +86,6 @@ Current capture **with** a mechancal load on the motor
 <img src="/Images/Current_sensing_three_phase_with_load.JPG" width=55%>
 
 
-## Angle Estimation Results
-
-<img src="/Images/Estimated_angle_with_load.png" width=55%>
-
-- **Ae:** Estimated Angle
-- **Am:** Measrued Angle 
-
-
 ## Maintain Set Angle Results
 
 The following figures demonstrate the angle closed loop functionality. In the figure below the set angle is 5 rad.
@@ -92,10 +98,13 @@ The motor shaft was mechanically displaced in both directions, the shaft returne
 - **C:** The shaft is displaced 15 rad in the positive direction
 - **D:** The shaft is released, an undershoot occurs
 
-## Constant Velocity Mode
 
-<img src="/Images/5rad_sec_noise.JPG" width=55%>
+## Angle Estimation Results
 
+<img src="/Images/Estimated_angle_with_load.png" width=55%>
+
+- **Ae:** Estimated Angle
+- **Am:** Measrued Angle 
 
 
 ## Notes
