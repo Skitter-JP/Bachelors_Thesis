@@ -101,6 +101,12 @@ The motor shaft was mechanically displaced in both directions, the shaft returne
 
 ## Angle Estimation Results
 
+A state observer was implemented to estimate the angle of the motor shaft using
+voltages/currents in the rotating reference frame. Estimating the shaft of the angle was possible but
+was not stable. The state observer would saturate due to noise in the current measurements, therefor
+to keep the estimated angle stable a load needed to be applied to the motor to push the currents out
+of the noise floor.
+
 <img src="/Images/Estimated_angle_with_load.png" width=55%>
 
 - **Ae:** Estimated Angle
