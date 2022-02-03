@@ -92,6 +92,11 @@ The motor shaft was mechanically displaced in both directions, the shaft returne
 - **C:** The shaft is displaced 15 rad in the positive direction
 - **D:** The shaft is released, an undershoot occurs
 
+## Constant Velocity Mode
+
+<img src="/Images/5rad_sec_noise.JPG" width=55%>
+
+
 
 ## Notes
 1. I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
