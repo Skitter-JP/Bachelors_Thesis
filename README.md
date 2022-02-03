@@ -59,6 +59,10 @@ In this repositary the following has been attached
 
 ## Current Sensing Results
 
+The following figures were captured from the ESC while operating in a constant velocity mode at 5
+rad/sec. In the first figure the motor was running with no mechanical load, the wave form appears noisy, but a sinusoidal signal is visible.
+In the second figure a mechanical load was placed on the motor, this increased the consumed current. The wave form is clear with minimal noise.
+
 Current capture **with no** mechancal load on the motor
 
 <img src="/Images/Current_sensing_three_phase_no_load.JPG" width=55%>
