@@ -75,12 +75,15 @@ Current capture **with** a mechancal load on the motor
 
 ## Maintain Set Angle Results
 
+The following figures demonstrate the angle closed loop functionality. In the figure below the set angle is 5 rad.
+The motor shaft was mechanically displaced in both directions, the shaft returned its set point with slight over and undershoots.
+
 <img src="/Images/phyiscal_displacement_Large - Labels.JPG" width=55%>
 
-- **A:**
-- **B:**
-- **C:**
-- **D:**
+- **A:** The shaft is displaced 5 rad in a negative direction
+- **B:** The shaft is released, an overshoot occurs
+- **C:** The shaft is displaced 15 rad in the positive direction
+- **D:** The shaft is released, an undershoot occurs
 
 
 ## Notes
