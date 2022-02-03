@@ -22,16 +22,14 @@ In this repositary the following has been attached
 - **Images:** The manufactured PCB and Mounts can be viewd here.
 - **Document:** The document which was submitted
 
-## PCB Board Views
-
+## ESC PCB Board Views
 
 <img src="/Images/PCB_Board_View_Bottom.JPG" width=55%>
 <img src="/Images/PCB_Board_View_Top.JPG" width=55%>
-
 <img src="/Images/PCB_3D_View_Side.JPG" width=55%>
 <img src="/Images/PCB_3D_View_Top.JPG" width=55%>
 
-## Completed PCB
+## Completed ESC PCB
 
 <img src="/Images/Assembled_PCB.JPG" width=55%>
 
@@ -41,7 +39,9 @@ In this repositary the following has been attached
 <img src="/Images/Magnet_Motor.jpg" width=55%>
 <img src="/Images/Magnetic_Sensor_Mount.jpg" width=55%>
 
+## Magnetic Encoder Board Views
 
+## Completed Magnetic Encoder PCB
 
 ## Notes
 1. I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
