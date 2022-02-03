@@ -45,18 +45,6 @@ In this repositary the following has been attached
 
 <img src="/Images/Magnetic_Encoder_Assembled_PCB.JPG" width=55%>
 
-## 3D Printed Mounts
-
-<img src="/Images/Magnet_Motor.JPG" width=55%>
-
-- **A:** A small mount for a diametrically magnetized magnet which was mounted to the rotor.
-- **B:** A BLDC Motor
-
-<img src="/Images/Magnetic_Sensor_Mount.JPG" width=55%>
-
-- **A:** The magnetic encoder which was mounted just below the rotor.
-- **B:** A 3D printed Motor/Magnetic encoder Mount
-
 ## Constant Velocity Mode
 
 The following figure was captured from the ESC while operating in a constant velocity. In the figure the
@@ -112,6 +100,17 @@ of the noise floor.
 - **Ae:** Estimated Angle
 - **Am:** Measrued Angle 
 
+## 3D Printed Mounts
+
+<img src="/Images/Magnet_Motor.JPG" width=55%>
+
+- **A:** A small mount for a diametrically magnetized magnet which was mounted to the rotor.
+- **B:** A BLDC Motor
+
+<img src="/Images/Magnetic_Sensor_Mount.JPG" width=55%>
+
+- **A:** The magnetic encoder which was mounted just below the rotor.
+- **B:** A 3D printed Motor/Magnetic encoder Mount
 
 ## Notes
 1. I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
