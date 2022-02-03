@@ -54,6 +54,12 @@ The magnetic encoder which was mounted just below the rotor.
 
 <img src="/Images/Magnetic_Sensor_Mount.jpg" width=55%>
 
+## Current Sensing
+
+## Angle Estimation
+
+## Maintain Set Angle
+
 ## Notes
 1. I wanted to split the code up into seperate libraries but this obvisouly did not happen, so please excuse the mess.
 2. My supervisor encouraged me to tightly layout the PCB and use small footprints. The smallest being 0402 packages, this was also a challange to solder but worth the effort.
