@@ -59,7 +59,12 @@ In this repositary the following has been attached
 
 ## Current Sensing Results
 
+Current capture **with no** mechancal load on the motor
+
 <img src="/Images/Current_sensing_three_phase_no_load.JPG" width=55%>
+
+Current capture **with** a mechancal load on the motor
+
 <img src="/Images/Current_sensing_three_phase_with_load.JPG" width=55%>
 
 
@@ -71,6 +76,11 @@ In this repositary the following has been attached
 ## Maintain Set Angle Results
 
 <img src="/Images/phyiscal_displacement_Large - Labels.JPG" width=55%>
+
+- **A:**
+- **B:**
+- **C:**
+- **D:**
 
 
 ## Notes
