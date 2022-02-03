@@ -24,8 +24,8 @@ In this repositary the following has been attached
 
 ## ESC PCB Board Views
 
-<img src="/Images/PCB_Board_View_Bottom.JPG" width=55%>
 <img src="/Images/PCB_Board_View_Top.JPG" width=55%>
+<img src="/Images/PCB_Board_View_Bottom.JPG" width=55%>
 <img src="/Images/PCB_3D_View_Side.JPG" width=55%>
 <img src="/Images/PCB_3D_View_Top.JPG" width=55%>
 
