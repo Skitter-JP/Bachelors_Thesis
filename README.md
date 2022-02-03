@@ -46,8 +46,10 @@ In this repositary the following has been attached
 <img src="/Images/Magnetic_Encoder_Assembled_PCB.JPG" width=55%>
 
 ## 3D Printed Mounts
-
+A small mount for a diametrically magnetized magnet which was mounted to the rotor
 <img src="/Images/Magnet_Motor.jpg" width=55%>
+
+The magnetic encoder which was mounted just below the rotor.
 <img src="/Images/Magnetic_Sensor_Mount.jpg" width=55%>
 
 ## Notes
