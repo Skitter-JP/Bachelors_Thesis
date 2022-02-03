@@ -24,9 +24,23 @@ In this repositary the following has been attached
 
 ## PCB Board Views
 
+
+<img src="/Images/PCB_Board_View_Bottom.JPG" width=55%>
+<img src="/Images/PCB_Board_View_Top.JPG" width=55%>
+
+<img src="/Images/PCB_3D_View_Side.JPG" width=55%>
+<img src="/Images/PCB_3D_View_Top.JPG" width=55%>
+
 ## Completed PCB
 
+<img src="/Images/Assembled_PCB.JPG" width=55%>
+
+
 ## 3D Printed Mounts
+
+<img src="/Images/Magnet_Motor.jpg" width=55%>
+<img src="/Images/Magnetic_Sensor_Mount.jpg" width=55%>
+
 
 
 ## Notes
