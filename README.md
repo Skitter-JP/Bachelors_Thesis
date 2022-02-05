@@ -45,6 +45,19 @@ In this repositary the following has been attached
 
 <img src="/Images/Magnetic_Encoder_Assembled_PCB.JPG" width=55%>
 
+## Hardware Block Diagram
+
+<img src="/Images/Hardware_Block.png" width=55%>
+
+## State Observer Block Diagram
+
+<img src="/Images/State_observer.png" width=55%>
+
+- **A:** The modulated voltages 𝑈𝛼 and 𝑈𝛽 are passed into the Observer
+- **B:** The currents generated from 𝑈𝛼 and 𝑈𝛽 are read and converted into the same reference frame (𝐼𝛼 and 𝐼𝛽) and then fed into the observer
+- **C:** The angle from the observer and the encoder are passed into the angle selector, depending on the sensing mode either angle will be passed in the control loop
+- **D:** The control loop handles the given angle and performs the necessary task
+
 ## Constant Velocity Mode
 
 The following figure was captured from the ESC while operating in a constant velocity. In the figure the
